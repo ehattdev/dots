@@ -1,0 +1,4 @@
+return {
+    layout = "select",
+    prompt = "❯ ",
+}

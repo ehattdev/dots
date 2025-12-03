@@ -1,0 +1,16 @@
+theme = catppuccin-mocha.conf
+font-family = JetBrains Mono
+font-size = 17
+background-opacity = 1
+background-blur = false
+cursor-style-blink = true
+background-opacity-cells = false
+confirm-close-surface = false
+gtk-single-instance = true
+quit-after-last-window-closed = false
+window-padding-y = 0,0
+link-url = true
+link-previews = true
+window-theme = ghostty
+custom-shader = shaders/tail.glsl
+command = direct:/bin/fish

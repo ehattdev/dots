@@ -1,0 +1,17 @@
+return {
+    git_log = require("quasar.picker.sources.gitlog"),
+    explorer = require("quasar.picker.sources.explorer"),
+    git_branches = require("quasar.picker.sources.gitbranches"),
+    keymaps = require("quasar.picker.sources.keymaps"),
+    files = require("quasar.picker.sources.files"),
+    buffers = require("quasar.picker.sources.buffers"),
+    command_history = require("quasar.picker.sources.commandhistory"),
+    commands = require("quasar.picker.sources.commands"),
+    diagnostics = require("quasar.picker.sources.diagnostics"),
+    grep = require("quasar.picker.sources.grep"),
+    lines = require("quasar.picker.sources.lines"),
+    notifications = require("quasar.picker.sources.notifications"),
+    recent = require("quasar.picker.sources.recent"),
+    undo = require("quasar.picker.sources.undo"),
+    zoxide = require("quasar.picker.sources.zoxide"),
+}
