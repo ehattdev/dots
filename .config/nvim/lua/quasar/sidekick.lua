@@ -62,10 +62,12 @@ M.keys = {
       mode = { "n", "x" },
       desc = "Sidekick Select Prompt",
     },
+
+
     {
       "<leader>oc",
       function() require("sidekick.cli").toggle({ name = "opencode", focus = true }) end,
-      desc = "Sidekick Toggle OpenCode",
+      desc = " toggle OpenCode",
       mode = { "n", "t", "x" },
     },
 }

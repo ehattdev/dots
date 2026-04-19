@@ -113,7 +113,7 @@ local lsp = {
 lualine.setup({
     options = {
 	    icons_enabled = true, --you'd better have nerd fonts or things are about to get ugly...
-		theme = "catppuccin",
+		theme = "catppuccin-nvim",
         transparent = true,
 		section_separators = { left = "", right = "" },
 		component_separators = { left = "", right = "" }, --seperators

@@ -15,4 +15,6 @@ return {
     { "chrisgrieser/nvim-origami", event = "VeryLazy", opts = {} },
     { 'MagicDuck/grug-far.nvim', config = function() require('grug-far').setup({ windowCreationCommand = 'lua Snacks.win.new()' }); end }, --keep defaults but always launch in snacks floating window
     { "obsidian-nvim/obsidian.nvim", ft = "markdown", opts = require("quasar.markdown.obsidian") },
+    { "hedyhli/outline.nvim", lazy = true, cmd = { "Outline", "OutlineOpen" }, keys = require("quasar.markdown.outline").keys, opts = require("quasar.markdown.outline").opts },
+    { "jeryldev/pyworks.nvim", config = function() require("pyworks").setup() end, },
 }

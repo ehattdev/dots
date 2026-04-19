@@ -1,3 +1,6 @@
+vim.g.mapleader = " "
+vim.g.maplocalleader = " "
+
 vim.g.NERDSpaceDelims = 1
 vim.opt.ruler = false
 
@@ -54,3 +57,6 @@ vim.cmd [[set iskeyword+=-]] --consider words with a - in it as one word
 --disable netrw
 vim.g.loaded_netrw = 1
 vim.g.loaded_netrwPlugin = 1
+
+-- for obsidian
+vim.g.conceallevel = 2

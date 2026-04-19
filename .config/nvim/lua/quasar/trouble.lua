@@ -16,12 +16,12 @@ M.keys = {
       desc = "Buffer Diagnostics (Trouble)",
     },
     {
-      "<leader>cs",
+      "<leader>os",
       "<cmd>Trouble symbols toggle focus=false<cr>",
       desc = "Symbols (Trouble)",
     },
     {
-      "<leader>cl",
+      "<leader>ol",
       "<cmd>Trouble lsp toggle focus=false win.position=right<cr>",
       desc = "LSP Definitions / references / ... (Trouble)",
     },

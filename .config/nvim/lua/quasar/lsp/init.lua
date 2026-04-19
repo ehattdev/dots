@@ -10,6 +10,7 @@ vim.diagnostic.config( {
     }
 })
 
+require("quasar.lsp.harper")
 
 
 require('copilot').setup({
@@ -31,3 +32,4 @@ require('copilot').setup({
     },
     nes = { enabled = false, },
 })
+
