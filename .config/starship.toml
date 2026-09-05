@@ -1,7 +1,7 @@
 # @ehatt
 # 512 line starship prompt configuration!
 # nearly every module is explicitly 
-# defined so that the prompt is
+# defined so that the prompt is:
 # a. ready for any technology i happen to adopt and
 # b. only includes critical info, minimal connective words
 # like "in", "via", etc.
@@ -14,10 +14,10 @@ palette = "catppuccin_mocha"
 
 # prompt format
 format = """
-[](fg:green)\
-[$os](fg:base bg:green)\
-[$cmd_duration](fg:base bg:green)\
-[](fg:green)\
+[](fg:peach)\
+[$os](fg:base bg:peach)\
+[$cmd_duration](fg:bold base bg:peach)\
+[](fg:peach)\
 [ 󰜥  ](fg:rosewater)\
 [](fg:mauve)\
 [$username](fg:base bg:mauve)\
@@ -97,6 +97,16 @@ mantle = "#181825"
 crust = "#11111b"
 
 # ---------- modules ----------
+
+[character]
+success_symbol = "[](bold green)"
+error_symbol = "[](bold red)"
+vimcmd_symbol = "[](bold blue)"
+vimcmd_replace_one_symbol = "[](bold peach)"
+vimcmd_replace_symbol = "[](bold peach)"
+vimcmd_visual_symbol = "[](bold mauve)"
+
+
 # system
 [[battery.display]]
 threshold = 30
@@ -132,7 +142,7 @@ format = "$symbol [${ram}( | ${swap})]($style) "
 
 [os]
 disabled = false
-style = 'fg:bold base bg:green'
+style = 'fg:bold base bg:peach'
 
 [os.symbols]
 Alpaquita = " "

@@ -1,6 +1,6 @@
 theme = catppuccin-mocha.conf
-font-family = JetBrains Mono
-font-size = 17
+font-family = Maple Mono NF
+font-size = 16
 background-opacity = 1
 background-blur = false
 cursor-style-blink = true
@@ -13,4 +13,4 @@ link-url = true
 link-previews = true
 window-theme = ghostty
 custom-shader = shaders/tail.glsl
-command = direct:/bin/fish
+command = direct:/usr/bin/nu

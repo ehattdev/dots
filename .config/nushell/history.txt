@@ -1,0 +1,922 @@
+ls
+clear
+ls
+clear
+l
+c
+ls
+clear
+l
+clear
+l
+clear
+ls
+clear
+ls
+exa
+lsd
+ls
+eza
+ls
+ps aux
+ps
+exit
+l
+ls
+clear
+exit
+ps | where cpu > 5
+echo test | describe
+clear
+ls
+c
+clear
+p -S carapace--bin
+p -S carapace-bin
+exit
+l
+lw
+l
+ls
+~
+ls
+z nu
+zoxide
+z nu
+exit
+x nu
+z nu
+~
+z nushell
+l
+ls
+exit
+l
+ls
+c
+clar
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+exit
+config nu
+exit
+nu
+z nushell
+vim config.nu 
+exit
+l
+ls
+clear
+ls
+clear
+ls
+clear
+l
+sl
+exit
+ls
+clear
+exit
+v
+exit
+v config.nu 
+l
+la
+l
+ll
+l
+ls
+v config.nu 
+l
+exit
+ls
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+cl
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+ll
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+v config.nu 
+exit
+v config.nu
+exit
+ls
+c
+l
+c
+l
+c
+ghosttyconf 
+z
+vim config.nu 
+exit
+nu
+exit
+z ~
+ghosttyconf 
+z
+fishconf
+zoxide ~
+z ghostyt
+z ghostty
+ls
+clear
+ls
+clear
+l
+c
+l
+pup
+l
+z res
+l
+z rob
+z reg
+a
+l
+z analysis/
+l
+..
+z anal
+..
+l
+z andes-link/
+l
+z quasar
+l
+z plugins/
+l
+z rega
+l
+z analysis/
+l
+vim analysis_rega_apo_mono_tip3p_rep1.ipynb 
+z analysis
+l
+fish ../setup.fish
+..
+z ana
+l
+vim kmeans_labels.txt 
+..
+l
+z out
+l
+ls
+z rega
+use .venv\Scripts\activate.nu
+use .venv\bin\activate.nu
+l
+l -a
+ls .venv/bin/
+overlay use .venv/bin/activate.nu 
+vim setup.fish 
+vim setup.nu
+nu setup.nu 
+vim setup.nu 
+nu setup.nu 
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+z andes-link/
+l
+..
+l
+z analysis/
+z ..
+zi
+l
+z andes-link/
+l
+z rega_simulations/
+l
+z processed/
+l
+..
+l
+z apo_rega_monomer_tip3p/
+l
+z 1
+l
+z rega
+opencode
+p -S opencode
+opencode
+z rega
+setup.nu
+chmod +x setup.nu 
+setup.nu
+nu setup.nu 
+vim setup.nu 
+nu setup.nu 
+overlay use .venv/bin/activate.nu 
+vim setup.nu 
+sshfs -o follow_symlinks f0082m6@andes.dartmouth.edu:/dartfs-hpc/rc/lab/R/RobustelliP/for_eli ./andes-link/
+z analysis/
+l
+vim analysis_rega_apo_mono_tip3p_rep1.ipynb 
+vim analysis_rega_apo_mono_tip3p_rep2.ipynb 
+vim analysis_rega_holo_mono_gaff1_rep1.ipynb 
+vim analysis_rega_holo_mono_gaff1_rep2.ipynb 
+vim analysis_rega_holo_mono_gaff2_rep1.ipynb 
+vim analysis_rega_holo_mono_gaff2_rep2.ipynb 
+uv sync
+z rega
+overlay use .venv/bin/activate.nu 
+z analysis/
+vim analysis_rega_holo_mono_gaff2_rep1.ipynb 
+p -S code
+ssh f0082m6@andes8
+clear
+ls
+clear
+l
+c
+l
+clear
+l
+clear
+ls
+clear
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+cl
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+lc
+cl
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+cll
+l
+llc
+lls
+lll
+clear
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+neofetch
+p -R code
+p -S iterm
+p -S st
+p -S xterm
+p -Syyy
+p -S xterm
+ssh f0082m6@andes8
+vim ~/.Xresources
+p -S alacritty
+vim ~/.Xresources
+xrdb -merge ~/.Xresources
+p -S st
+st
+xterm -fa 'Monospace' -fs 14
+xterm -fa 'Monospace' -fs 20
+infocmp -x xterm-ghostty | ssh f0082m6@andes8 -- tic -x -
+ssh f0082m6@andes8
+sudo vim .ssh/config
+xterm -fa 'Monospace' -fs 20
+z rega
+ls
+vim uv.lock 
+uv sync
+vmd
+p -S vmd
+p -Syyy
+p -S vmd
+ssh lab
+ping 1.1.1.1
+l
+c
+l
+c
+l
+c
+ll
+l
+c
+ls
+c
+l
+c
+fetch
+ff
+c
+ls
+clear
+l
+clear
+ls
+ls
+ls
+c
+l
+c
+l
+c
+l
+c
+fastfetch
+fetch
+clear
+l
+d
+c
+l
+c
+ssh lab
+l
+c
+l
+c
+l
+c
+l
+c
+l
+ll
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+cl
+lc
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+z nushell
+l
+vim config.nu 
+c
+ssh lab
+clear
+nix
+curl -fsSL https://install.determinate.systems/nix | sh -s -- install
+nix-env
+nixpkgs
+nix
+curl -fsSL https://get.jetify.com/devbox | bash
+p -S ttf-ms-fonts
+p -S cardmirror-bin
+cardmirror
+CardMirror
+CardMiror
+cardmirror-bin
+cardmirror
+exit
+nu
+cardmirror
+sudo cardmirror
+cardmirror
+sudo cardmirror --no-sandbox
+which cardmirror
+ls /usr/bin/ | grep card
+/usr/bin/cardmirror
+zsh
+exit
+cardmirror
+z Downloads/
+l
+chmod +x /usr/bin/cardmirror
+sudo chmod +x /usr/bin/cardmirror
+cardmirror
+/usr/bin/cardmirror
+chmod +x cardmirror-0.1.0-alpha.3.AppImage 
+p -S cardmirror-bin
+cardmirror
+c
+./cardmirror-0.1.0-alpha.3.AppImage
+cardmirror
+p -S obs
+p -S obs-studip
+p -S obs-studio
+obs
+which swappy 
+hyprconf
+slurp
+grim
+grim -h
+slurp
+man grim
+obs
+p -S libpci
+p -Syu
+l
+cd music/
+ls
+rm Ex_Military-9086.zip
+rm `02 I'm God.m4a`
+rm `The Heart, Part 4.flac`
+rm Death*
+l
+~
+l
+rm `2026-05-22 00-19-18.mp4`
+rm `2026-05-22 00-19-47.mp4`
+rm `2026-05-22 00-20-42.mp4`
+obs
+ff
+fastfetch
+time
+hyprconf
+z
+l
+ls
+clear
+ssh lab
+hermes
+ls
+rm SOUL.md
+vim temp.txt
+job unfreeze
+ssh lab
+fish
+c
+l
+c
+l
+c
+l
+fetch
+pacman -
+p -Q
+p -Q > q.txt
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+z research
+l
+z robustellilab/
+l
+mkdir -p container
+mkdir container
+z container/
+l
+hermes
+opencode
+opencode -h
+opencode models --help
+z config
+z opencode
+vim opencode.json 
+dff -h
+df -h
+df -h -d 1 /
+df -h /
+df --help
+du -h -d 1 /
+sudo du -d 1 /
+du
+du -d 1
+du -d 1 where apparent > 1G
+du -d 1 | where apparent > 1G
+du -d 1 | where apparent > 1
+du -d 1 | where apparent > 1Gb
+du -d 1 / | where apparent > 1Gb
+du -d 2 / | where apparent > 1Gb
+du -d 1 /
+du -d 2 /
+cd /
+du -d 1
+~
+sudo du -d 1 / | where apparent > 1Gb
+cd /
+du -d 1 / | where apparent > 1Gb
+l
+l -a
+du -d 1 / | where apparent > 1Gb
+du -d 1 / | where apparent > 1gB
+du -d 1 / | where size > 1Gb
+du -d 1 / | where physical > 1Gb
+du -d 1 ~ | where physical > 1Gb
+cd ~
+du -d 1 | where physical > 1Gb
+vim
+vimcong
+vimconf
+vim test.typ
+clear
+ls
+clear
+ls
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+rm test.typ
+rm test.cmir
+c
+l
+c
+l
+c
+l
+c
+fish vimconf
+vim test.typ
+fish
+l
+ls -al
+exa -al
+l
+c
+l
+c
+p -S spicetify
+spicetify
+curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.sh | sh
+spicetify backup apply
+sudo spicetify backup apply
+curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.sh | sh
+clear
+l
+cl
+clear
+l
+sclear
+l
+clear
+l
+clear
+l
+c
+l
+c
+ll
+cl
+l
+c
+l
+c
+l
+cl
+l
+ccl
+c
+l
+cl
+c'<\n>l<\n><\n>'
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+ls
+ls
+ls
+ls
+ls
+l
+ls
+nvidia-smi
+p -Syu
+clear
+l
+clear
+l
+cler
+l
+c
+l
+c
+l
+c
+l
+cl
+l
+c
+l
+cl
+l
+c
+l
+c
+l
+c
+l
+c
+l
+cl
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+cl
+c
+l
+cl
+l
+cl
+c
+l
+c
+l
+c
+l
+ll
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+l
+ll
+l
+ls
+l
+ls
+l
+ls
+l
+sl
+ls
+l
+ls
+fzf
+fzg
+ping diyhrt.market
+ping https://diyhrt.market
+ping google.com
+ping google.co.uk
+ping based.win
+ping https://diyhrt.market
+p -S handy
+p -S onlyoffice
+ls
+c
+l
+c
+l
+x
+c
+ls
+clear
+p -Syu
+p -Syyy
+p -Syu
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+l
+c
+lsclea
+clear
+c
+l
+c
+l
+c
+cc
+c
+ccc
+cc
+l
+gcc
+cxx
+l
+c
+ls
+clear
+ls
+clear
+ls
+clear
+l
+cardmirror
+cd devel/
+l
+cd nixos-prep/
+ls
+cd cff
+ls
+l
+c
+l
+c
+l
+c
+l
+c
+l
+ll
+c
+l
+c
+vim flake.nix 
+z cff
+l
+l modules/
+z cff
+vim .
+clear
+..
+...
+ls
+z .config/
+l

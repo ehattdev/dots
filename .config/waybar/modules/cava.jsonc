@@ -1,0 +1,10 @@
+{
+    "cava": {
+        "cava_config": "$HOME/.config/cava/waybar-cava.conf",
+        "inuput_delay": 2,
+        "format-icons" : ["▁", "▂", "▃", "▄", "▅", "▆", "▇", "█" ],
+        "actions": {
+                   "on-click-right": "mode"
+                   }
+    }
+}

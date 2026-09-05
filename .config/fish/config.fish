@@ -13,12 +13,15 @@ alias l='eza -la -ls=time --icons --color=always --group-directories-first --no-
 alias ls='eza -la -ls=time --icons --color=always --group-directories-first --no-time --no-user --no-permissions'
 alias lt='eza -la -ls=time --icons --color=always --group-directories-first --no-time --no-user --no-permissions -T'
 alias f='sh /home/ehatt/.config/fzf/fzfsh.sh'
-# alias fzf='sh /home/ehatt/.config/fzf/fzfsh.sh'
+alias fzf='sh /home/ehatt/.config/fzf/fzfsh.sh'
+alias b='batman'
+alias man='batman'
 alias grep='rg --color=auto'
 alias rg='rg --color=auto'
 alias top='btop'
 alias lg='lazygit'
 alias fetch='fastfetch -c /home/ehatt/.config/fastfetch/ehatt.jsonc'
+alias c='clear'
 
 # zoxide / navigation
 alias cd='z'
@@ -55,6 +58,8 @@ alias hyprconf='z ~/.config/hypr/ && nvim .'
 alias wbconf='z ~/.config/waybar/ && nvim .'
 alias roconf='z ~/.config/rofi/ && nvim .'
 
+#music
+alias yta='rmpc addyt'
 # theme
 #run fish_config theme save "Catppuccin Mocha"
 

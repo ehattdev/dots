@@ -1,0 +1,12 @@
+2026/06/09-23:21:22.456 a48a Reusing MANIFEST /home/ehatt/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/09-23:21:22.456 a48a Recovering log #304
+2026/06/09-23:21:22.474 a48a Reusing old log /home/ehatt/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000304.log 
+2026/06/09-23:31:25.513 a50b Level-0 table #309: started
+2026/06/09-23:31:25.559 a50b Level-0 table #309: 1253608 bytes OK
+2026/06/09-23:31:25.567 a50b Delete type=0 #304
+2026/06/09-23:31:39.440 a50b Compacting 1@1 + 1@2 files
+2026/06/09-23:31:39.464 a50b Generated table #310@1: 2051 keys, 410088 bytes
+2026/06/09-23:31:39.464 a50b Compacted 1@1 + 1@2 files => 410088 bytes
+2026/06/09-23:31:39.465 a50b compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/06/09-23:31:39.466 a50b Delete type=2 #309
+2026/06/09-23:31:39.466 a50b Delete type=2 #306

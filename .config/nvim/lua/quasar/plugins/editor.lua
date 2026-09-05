@@ -17,4 +17,5 @@ return {
     { "obsidian-nvim/obsidian.nvim", ft = "markdown", opts = require("quasar.markdown.obsidian") },
     { "hedyhli/outline.nvim", lazy = true, cmd = { "Outline", "OutlineOpen" }, keys = require("quasar.markdown.outline").keys, opts = require("quasar.markdown.outline").opts },
     { "jeryldev/pyworks.nvim", config = function() require("pyworks").setup() end, },
+    {'chomosuke/typst-preview.nvim', ft = "typst", opts = {}, },
 }
